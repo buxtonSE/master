@@ -1,4 +1,4 @@
-﻿Overview: The international secret government has tasked you with creating an api that exposes this amazing implemenation created from STEP2
+﻿Overview: The international secret government has tasked you with creating an api that exposes this amazing implementation created from STEP2
 
 Todo: Add STEP2 project as a reference to this project STEP3. 
 - Expose an endpoint that accepts parameters that satisfy your implementation from STEP2. Have the endpoint return as JSON the output of that function.
